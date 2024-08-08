@@ -1,0 +1,36 @@
+Project Title
+
+    Uber and Lyft Usage Analysis in Boston, MA
+
+Team Members
+    Tianyi Liu
+    Rahul Sharma
+    Sukhwinder Singh
+    Siawash Ahmar
+
+Project Description/Outline
+    Uber and Lyft Dataset Boston, MA
+
+Research Questions to Answer:
+    1) What time of the day is the demands of the rides the most? 
+    2) Weather effect on i) destenation; ii) surge price
+    3) Weather effect on: i) price; ii) shared rides
+    4) # of rides based on location? 
+
+    BACKUP QUESTIONS: A) Do shared rides cost more/go further distance, location? 
+    
+    BONUS: What effect does weather compared with # of rides (API) 
+
+Datasets to be Used:
+   https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma/data
+
+Rough Breakdown of Tasks
+
+    Task 1) Sukhwinder/Rahul
+    Task 2) Siawash / Rahul
+    Task 3) Siawash / Rahul
+    Task 4) Rahul / Tianyi
+    Bonus: Tianyi / Sukhwinder
+    Slide Deck: All 
+
+What is the need or service are you addressing with your data? What story do you want to tell with your data
