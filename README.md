@@ -1,3 +1,9 @@
+Not able to upload the CSV file as the size of the CSV file is more than 25 MB. But the file can be downloaded from the following link.
+
+https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma
+
+
+
 This dataset pertains to Uber and Lyft rides in Boston, MA, covering the period from November 26, 2018, to December 18, 2018.
 
 Dataset link: https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma
